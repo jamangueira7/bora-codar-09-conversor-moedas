@@ -35,6 +35,7 @@ main {
 .conversor .wrapper {
     margin-top: 1.6rem;
     display: flex;
+    align-items: center;
     gap: 1.6rem;
 }
 
@@ -42,6 +43,8 @@ section h2 {
     font-size: 2rem;
     line-height: 2.4rem;
 }
+
+/* MONEY-WRAPPER */
 
 .money-wrapper {
     background: white;
@@ -85,6 +88,7 @@ section h2 {
 }
 
 .dropdown:hover {
+    height: fit-content;
     overflow: initial;
 }
 
@@ -114,6 +118,7 @@ section h2 {
 
 }
 
+li:hover,
 .selected:hover {
     background-color: var(--bg-hover);
 }
@@ -142,6 +147,7 @@ li {
     display: flex;
     align-items: center;
     gap: 0.8rem;
+    cursor: pointer;
 }
 
 .cambio .wrapper {
