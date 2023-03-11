@@ -22,8 +22,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Projeto de front end (apenas template) de um conversor de moedas.
 
 ![img.png](.github%2Fimg.png)
-![img_1.png](.github%2Fimg.png)
-![img_2.png](.github%2Fimg_2.png)
 
 Repositorio do desafio - [maykbrito](https://github.com/maykbrito/boracodar/tree/main/09)
 
